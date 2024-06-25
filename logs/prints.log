@@ -1,0 +1,50 @@
+17:10:39.682 [main] DEBUG tests.Test1 - opens the browser
+17:11:08.617 [main] DEBUG tests.Test1 - navigate to the url
+17:11:13.500 [main] DEBUG tests.Test1 - search the given peoduct
+17:11:19.975 [main] DEBUG tests.Test1 - navigated to search button
+17:11:20.360 [main] DEBUG tests.Test1 - Addind the first project to cart
+17:11:23.313 [main] DEBUG tests.Test1 - opens the cart page
+17:11:36.714 [main] DEBUG tests.Test1 - closes the browser
+17:25:02.443 [main] DEBUG tests.Cart_Test - opens the browser
+17:25:29.349 [main] DEBUG tests.Cart_Test - navigate to the url
+17:25:39.782 [main] DEBUG tests.Cart_Test - search the given peoduct
+17:25:53.123 [main] DEBUG tests.Cart_Test - navigated to search button
+17:25:57.811 [main] DEBUG tests.Cart_Test - Adding the first project to cart
+17:26:03.113 [main] DEBUG tests.Cart_Test - opens the cart page
+17:26:03.484 [main] DEBUG tests.Cart_Test - Product added to cart and verified
+17:26:08.615 [main] DEBUG tests.Cart_Test - closes the browser
+17:47:01.123 [main] DEBUG tests.Cart_Test - opens the browser
+17:47:21.240 [main] DEBUG tests.Cart_Test - opens the browser
+17:47:42.027 [main] DEBUG tests.Cart_Test - navigate to the url
+17:47:48.515 [main] DEBUG tests.Cart_Test - search the given peoduct
+17:48:02.862 [main] DEBUG tests.Cart_Test - navigated to search button
+17:48:03.591 [main] DEBUG tests.Cart_Test - Adding the first project to cart
+17:48:09.558 [main] DEBUG tests.Cart_Test - opens the cart page
+17:48:11.093 [main] DEBUG tests.Cart_Test - Product added to cart and verified
+17:48:16.010 [main] DEBUG tests.Cart_Test - closes the browser
+17:49:32.380 [main] DEBUG tests.Cart_Test - opens the browser
+17:49:36.352 [main] DEBUG tests.Cart_Test - navigate to the url
+17:49:49.118 [main] DEBUG tests.Cart_Test - search the given peoduct
+17:50:01.513 [main] DEBUG tests.Cart_Test - navigated to search button
+17:50:07.101 [main] DEBUG tests.Cart_Test - Adding the first project to cart
+17:50:10.179 [main] DEBUG tests.Cart_Test - opens the cart page
+17:50:10.600 [main] DEBUG tests.Cart_Test - Product added to cart and verified
+17:50:14.436 [main] DEBUG tests.Cart_Test - closes the browser
+20:13:38.765 [main] DEBUG tests.Cart_Test - opens the browser
+20:13:56.645 [main] DEBUG tests.Cart_Test - opens the browser
+20:14:55.741 [main] DEBUG tests.Cart_Test - navigate to the url
+20:15:07.537 [main] DEBUG tests.Cart_Test - search the given peoduct
+20:15:27.927 [main] DEBUG tests.Cart_Test - navigated to search button
+20:15:28.423 [main] DEBUG tests.Cart_Test - Adding the first project to cart
+20:15:32.310 [main] DEBUG tests.Cart_Test - opens the cart page
+20:15:32.595 [main] INFO  tests.Cart_Test - Product added to cart and verified
+20:15:38.784 [main] DEBUG tests.Cart_Test - closes the browser
+20:18:55.687 [main] DEBUG tests.Cart_Test - opens the browser
+20:19:27.586 [main] DEBUG tests.Cart_Test - navigate to the url
+20:19:41.136 [main] DEBUG tests.Cart_Test - search the given peoduct
+20:20:03.533 [main] DEBUG tests.Cart_Test - navigated to search button
+20:20:04.028 [main] DEBUG tests.Cart_Test - Adding the first project to cart
+20:20:08.661 [main] DEBUG tests.Cart_Test - opens the cart page
+20:20:09.547 [main] INFO  tests.Cart_Test - Product added to cart and verified
+20:20:25.740 [main] DEBUG tests.Cart_Test - closes the browser
+18:40:06.545 [main] DEBUG tests.Cart_Test - opens the browser
